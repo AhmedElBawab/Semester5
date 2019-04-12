@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1542636156 source:/home/ahmed/Desktop/New Batman/Batman/src/Bat.cpp
+	"Bat.h"
+
+1542636288 /home/ahmed/Desktop/New Batman/Batman/include/Bat.h
+
+1542703233 source:/home/ahmed/Desktop/New Batman/Batman/src/Monitor.cpp
+	"Monitor.h"
+
+1542742609 /home/ahmed/Desktop/New Batman/Batman/include/Monitor.h
+	<iostream>
+	<chrono>
+	<thread>
+	"Bat.h"
+
+1542730825 source:/home/ahmed/Desktop/New Batman/Batman/main.cpp
+	<iostream>
+	<thread>
+	<queue>
+	<pthread.h>
+	"Bat.h"
+	"Monitor.h"
+
+1542730825 source:/media/ahmed/My Passport/Mine/Faculty/Operating Systems/New Batman/Batman/main.cpp
+	<iostream>
+	<thread>
+	<queue>
+	<pthread.h>
+	"Bat.h"
+	"Monitor.h"
+
+1542636288 /media/ahmed/My Passport/Mine/Faculty/Operating Systems/New Batman/Batman/include/Bat.h
+
+1542742609 /media/ahmed/My Passport/Mine/Faculty/Operating Systems/New Batman/Batman/include/Monitor.h
+	<iostream>
+	<chrono>
+	<thread>
+	"Bat.h"
+
+1542636156 source:/media/ahmed/My Passport/Mine/Faculty/Operating Systems/New Batman/Batman/src/Bat.cpp
+	"Bat.h"
+
+1542703233 source:/media/ahmed/My Passport/Mine/Faculty/Operating Systems/New Batman/Batman/src/Monitor.cpp
+	"Monitor.h"
+

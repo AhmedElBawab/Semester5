@@ -1,0 +1,8 @@
+Element Method:
+16 17 
+12 16 
+Element Method Time:204
+Row Method:
+16 17 
+12 16 
+Row Method Time:64
